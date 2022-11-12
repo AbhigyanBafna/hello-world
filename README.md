@@ -1,8 +1,5 @@
 # hello-world
-**Fire Away ;)**
-
-### Purpose
-To store cool ideas and turn them into reality someday.
+>To store cool ideas and turn them into reality someday.
 
 ## Ideas
 1. How to GitHub - A project to ease the transition further, by creating it into a project!
